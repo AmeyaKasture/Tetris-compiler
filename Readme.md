@@ -106,7 +106,7 @@ The available color options are:
 5. Navigate the game menu using the arrow keys and press Enter to select an option.
 6. Play the game and enjoy!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Tetris Logo](/game_engine/img.png)
+![Tetris Logo](/img.png)
 
 
 
